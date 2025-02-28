@@ -22,7 +22,7 @@
 🎼 **著名音樂**：
    - *Bohemian Rhapsody* 🎶（皇后合唱團最經典代表曲）
    - *We Will Rock You* 🎵（觀眾參與的拍手節奏曲）[![We Will Rock You](https://markdown-videos-api.jorgenkh.no/youtube/-tJYN-eG1zk)](https://youtu.be/-tJYN-eG1zk)
-   - [![other test](https://markdown-videos-api.jorgenkh.no/youtube/-tJYN-eG1zk)](https://youtu.be/-tJYN-eG1zk)
+  
    - *Don't Stop Me Now* 🎸（熱血奔放的代表作）
 
 ---
