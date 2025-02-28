@@ -21,7 +21,7 @@
 📌 **簡介**：這部電影是英國傳奇搖滾樂團 *Queen* 與其主唱佛萊迪·墨裘瑞（Freddie Mercury）的傳記片，描述了他從樂團成立、崛起，到經典的 *Live Aid* 演唱會的故事。拉米·馬雷克憑此片榮獲奧斯卡影帝。  
 🎼 **著名音樂**：
    - *Bohemian Rhapsody* 🎶（皇后合唱團最經典代表曲）
-   - *We Will Rock You* 🎵（觀眾參與的拍手節奏曲）
+   - *We Will Rock You* 🎵（觀眾參與的拍手節奏曲）[![](https://markdown-videos-api.jorgenkh.no/youtube/watch?v=-tJYN-eG1zk)]([https:(https://www.youtube.com/watch?v=-tJYN-eG1zk))
    - *Don't Stop Me Now* 🎸（熱血奔放的代表作）
 
 ---
