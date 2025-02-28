@@ -64,67 +64,6 @@
 
 ---
 
-### 🎵 **6.《夢幻女郎》（Dreamgirls, 2006）**  ### Q: 以音樂著名的電影有哪些, 也對電影做些介紹及列出處？
-
- 以下是一些以音樂著名的電影，包含簡介與主要音樂片段的來源：  
-
----
-
-### 🎵 **1.《樂來樂愛你》（La La Land, 2016）**  
-📌 **導演**：達米恩·查澤雷（Damien Chazelle）  
-📌 **主演**：萊恩·葛斯林（Ryan Gosling）、艾瑪·史東（Emma Stone）  
-📌 **簡介**：這部電影是一部充滿懷舊風格的音樂愛情片，講述了一名爵士樂手與一名懷抱夢想的女演員在洛杉磯相識、相戀，但現實與夢想的拉扯讓他們的感情面臨挑戰。影片運用了大量歌舞場面與色彩鮮明的視覺風格，並向經典好萊塢音樂劇致敬。  
-🎼 **著名音樂**：
-   - *City of Stars* 🎤（萊恩·葛斯林、艾瑪·史東合唱）
-   - *Another Day of Sun* 🎶（開場群舞曲）
-   - *Audition (The Fools Who Dream)* 🎤（艾瑪·史東獨唱）  
-
----
-
-### 🎵 **2.《波西米亞狂想曲》（Bohemian Rhapsody, 2018）**  
-📌 **導演**：布萊恩·辛格（Bryan Singer）、德克斯特·弗萊徹（Dexter Fletcher）  
-📌 **主演**：拉米·馬雷克（Rami Malek）  
-📌 **簡介**：這部電影是英國傳奇搖滾樂團 *Queen* 與其主唱佛萊迪·墨裘瑞（Freddie Mercury）的傳記片，描述了他從樂團成立、崛起，到經典的 *Live Aid* 演唱會的故事。拉米·馬雷克憑此片榮獲奧斯卡影帝。  
-🎼 **著名音樂**：
-   - *Bohemian Rhapsody* 🎶（皇后合唱團最經典代表曲）
-   - *We Will Rock You* 🎵（觀眾參與的拍手節奏曲）
-   - *Don't Stop Me Now* 🎸（熱血奔放的代表作）
-
----
-
-### 🎵 **3.《搖滾教室》（School of Rock, 2003）**  
-📌 **導演**：理查·林克雷特（Richard Linklater）  
-📌 **主演**：傑克·布萊克（Jack Black）  
-📌 **簡介**：這是一部音樂喜劇片，講述了一名失敗的搖滾樂手假冒老師，帶領一群小學生組成樂團，最終在音樂比賽上大放異彩。影片展現了音樂的魅力，也傳達了追夢與熱情的重要性。  
-🎼 **著名音樂**：
-   - *School of Rock* 🎸（電影原創曲）
-   - *Immigrant Song* 🎤（齊柏林飛船經典歌曲）
-   - *It's a Long Way to the Top (If You Wanna Rock 'n' Roll)* 🎶（AC/DC 名曲）
-
----
-
-### 🎵 **4.《搖滾時代》（Rock of Ages, 2012）**  
-📌 **導演**：亞當·尚克曼（Adam Shankman）  
-📌 **主演**：湯姆·克魯斯（Tom Cruise）、朱利安·休（Julianne Hough）  
-📌 **簡介**：這是一部以 1980 年代搖滾樂為背景的音樂劇改編電影，講述了一對年輕戀人在洛杉磯追逐音樂夢想的故事，融合了許多經典搖滾歌曲。  
-🎼 **著名音樂**：
-   - *Don't Stop Believin'* 🎤（Journey 代表作）
-   - *We Built This City* 🎸（Starship 經典曲）
-   - *I Love Rock 'n' Roll* 🎶（Joan Jett and the Blackhearts）
-
----
-
-### 🎵 **5.《紅磨坊》（Moulin Rouge!, 2001）**  
-📌 **導演**：巴茲·魯曼（Baz Luhrmann）  
-📌 **主演**：妮可·基嫚（Nicole Kidman）、伊旺·麥奎格（Ewan McGregor）  
-📌 **簡介**：這是一部華麗炫目的音樂愛情片，背景設定在 19 世紀巴黎的紅磨坊，講述一名年輕詩人與夜總會女星之間的浪漫悲劇故事。電影使用大量現代流行音樂的改編版本，為經典歌曲注入新的生命。  
-🎼 **著名音樂**：
-   - *Your Song* 🎹（改編自艾爾頓·強原曲）
-   - *Elephant Love Medley* 🎶（多首經典情歌串燒）
-   - *Lady Marmalade* 🎤（翻唱 Labelle 經典曲）
-
----
-
 ### 🎵 **6.《夢幻女郎》（Dreamgirls, 2006）**  
 📌 **導演**：比爾·康頓（Bill Condon）  
 📌 **主演**：碧昂絲（Beyoncé）、珍妮佛·哈德森（Jennifer Hudson）  
@@ -141,7 +80,8 @@
 📌 **主演**：布萊德利·庫柏、女神卡卡（Lady Gaga）  
 📌 **簡介**：這部電影是經典電影《星海浮沉錄》的第四次翻拍，講述一名過氣的鄉村歌手發掘了一位才華洋溢的年輕歌手，並與她相戀的故事。影片音樂由女神卡卡親自參與創作，深受觀眾喜愛。  
 🎼 **著名音樂**：
-   - *Shallow* 🎤（電影最具代表性的主題曲）
+   - *Shallow* 🎤（電影最具代表性的主題曲）### Q: 以音樂著名的電影有哪些, 也對電影做些介紹及列出處？
+   - *Don't Stop Me Now* 🎸（熱血奔放的代表作）
    - *Always Remember Us This Way* 🎹（感人至深的鋼琴曲）
    - *I'll Never Love Again* 🎶（動人結局曲）
 
