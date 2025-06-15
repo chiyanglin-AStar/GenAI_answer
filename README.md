@@ -36,3 +36,5 @@
 - [AI 數據及程式基礎課](https://www.iiiedu.org.tw/course/detail/CEL_0102501)
   
 ***本課程專為高中生設計，從零開始建立 AI、數據分析與程式設計堅實基礎。透過實作導向教學，學生將掌握 Python 核心工具（NumPy、Pandas、Matplotlib）、線性代數與統計學概念，並進一步學習 PyTorch 框架，為未來進階 AI 與機器學習領域鋪路。***
+
+[back to Github](https://github.com/CodingCoffee-01/GenAI_answer/blob/main/CodingCoffee_Courses.md)
