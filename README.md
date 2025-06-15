@@ -13,6 +13,7 @@
 - [介紹韓國歷史_deepseek](https://github.com/CodingCoffee-01/GenAI_answer/blob/main/Korea_History_intro_deepseek.md)
 - [CodingCoffee current Courses](https://github.com/CodingCoffee-01/GenAI_answer/blob/main/CodingCoffee_Courses.md)
 
+# CodingCoffee Courses
 
 ## Senior CodingCoffee 
 
@@ -21,10 +22,6 @@
 - [OpenBMC VUE 網路管理介面開發](https://www.steamcourses.org/p/openbmc-vue)
 
 - [OpenBMC測試除錯、及測試工具整合](https://www.steamcourses.org/p/openbmc-system-development1)
-
-
-
-# CodingCoffee Courses
 
 ## Junior CodingCoffee co-work with III 
 
