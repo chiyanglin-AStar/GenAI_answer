@@ -35,11 +35,11 @@
 - [用ChatGPT 學C/C++ 準備APCS](https://www.iiiedu.org.tw/course/detail/CEL_0092501)
   
 ***結合 ChatGPT 與傳統程式教學，快速掌握 C/C++ 核心語法與 APCS 解題技巧。透過 AI 互動式學習，培養獨立 debug、優化程式碼的能力，並理解「如何正確向 AI 提問」以提升自學效率。從基礎語法到進階演算法，系統性建構 APCS 實戰力，目標達到 APCS 實作題 2 級分以上***
-[課程資料](https://github.com/CodingCoffee-01/GenAI_answer/blob/main/用chatgpt 學c++準備apcs.pdf)
+[課程資料](https://github.com/CodingCoffee-01/GenAI_answer/blob/main/用chatgpt學c++準備apcs.pdf)
 
 - [AI 數據及程式基礎課](https://www.iiiedu.org.tw/course/detail/CEL_0102501)
   
 ***本課程專為高中生設計，從零開始建立 AI、數據分析與程式設計堅實基礎。透過實作導向教學，學生將掌握 Python 核心工具（NumPy、Pandas、Matplotlib）、線性代數與統計學概念，並進一步學習 PyTorch 框架，為未來進階 AI 與機器學習領域鋪路。***
-[課程資料](https://github.com/CodingCoffee-01/GenAI_answer/blob/main/AI 數據及程式基礎課.pdf)
+[課程資料](https://github.com/CodingCoffee-01/GenAI_answer/blob/main/AI數據及程式基礎課.pdf)
 
 [back to Github](https://github.com/CodingCoffee-01/GenAI_answer/blob/main/CodingCoffee_Courses.md)
