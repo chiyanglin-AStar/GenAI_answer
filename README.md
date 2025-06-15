@@ -1,6 +1,6 @@
 # GenAI_answer
 
-- [static html for GenAI_answer](https://codingcoffee-01.github.io/GenAI_answer/)
+- [static html for GenAI_answer]()
 
 ### this repository is recorded from ChatGPT , DeepSeek or other GenAI answer.
 
