@@ -2,6 +2,10 @@
 
 - [static html for GenAI_answer](https://codingcoffee-01.github.io/GenAI_answer/)
 
+- [ChatGPT record](https://chatgpt.com/c/c8be1272-a9cb-42e1-8e9e-58fe645be268)
+  
+- Key Phrase : 可以以繁中, 對markdown 做tutorial 課程嗎?
+
 ### this repository is recorded from ChatGPT , DeepSeek or other GenAI answer.
 
 ### But these topics is based on "try to use AI to make different education way" .Welcome clone this repository and pull request to me 
