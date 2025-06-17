@@ -1,3 +1,14 @@
+### Git useful commands 
+
+```Shell
+git clone https://github.com/CodingCoffee-01/GenAI_answer.git
+git pull
+git add .
+git commit -m "update"
+git push
+```
+
+
 ## ✅ Markdown 課程規劃（繁體中文）
 
 ### 第 1 部分：Markdown 是什麼？
